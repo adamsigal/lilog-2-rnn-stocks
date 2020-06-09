@@ -1,0 +1,1 @@
+* can no longer fetch from google, next sesh just try to move forward with the rnn
